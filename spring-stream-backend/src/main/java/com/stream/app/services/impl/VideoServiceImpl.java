@@ -11,6 +11,21 @@ import java.util.List;
 public class VideoServiceImpl implements VideoService {
     @Override
     public Video save(Video video, MultipartFile file) {
+
+        //Original file name : image.png-> image
+        String filename=file.getOriginalFilename();
+
+
+        // create folder path
+
+        // folder pathname with filename
+
+        //copy file to the folder
+
+        //make video metadata
+
+        // save metadata
+
         return null;
     }
 
