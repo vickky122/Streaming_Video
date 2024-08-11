@@ -12,11 +12,12 @@ public class VideoServiceImpl implements VideoService {
     @Override
     public Video save(Video video, MultipartFile file) {
 
-        //Original file name : image.png-> image
+        //Original files name : image.png-> image
         String filename=file.getOriginalFilename();
 
 
         // create folder path
+        //
 
         // folder pathname with filename
 
