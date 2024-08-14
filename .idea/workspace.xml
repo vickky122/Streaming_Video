@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bda039b-8705-47c0-967c-4fd7984f6548" name="Changes" comment="first testing of the post method - video,filename and description(post)">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6bda039b-8705-47c0-967c-4fd7984f6548" name="Changes" comment="first testing of the post method - video,filename and description(post)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -236,7 +234,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723644138551</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="first testing of the post method - video,filename and description(post)">
+      <option name="closed" value="true" />
+      <created>1723644800639</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1723644800639</updated>
+    </task>
+    <task id="LOCAL-00019" summary="first testing of the post method - video,filename and description(post)">
+      <option name="closed" value="true" />
+      <created>1723644873198</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1723644873198</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
