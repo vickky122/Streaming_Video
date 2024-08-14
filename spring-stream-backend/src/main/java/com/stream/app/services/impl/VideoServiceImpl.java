@@ -40,6 +40,8 @@ public class VideoServiceImpl implements VideoService {
             String cleanFolder=StringUtils.cleanPath(DIR);
 
             Path path=Paths.get(cleanFolder,cleanFileName);
+
+            System.out.println(contentType);
             System.out.println(path);
 
 
