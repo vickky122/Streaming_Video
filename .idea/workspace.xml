@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bda039b-8705-47c0-967c-4fd7984f6548" name="Changes" comment="getting cocntent type and path on the backend springboot server">
+    <list default="true" id="6bda039b-8705-47c0-967c-4fd7984f6548" name="Changes" comment="Folder created/check if already present">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-stream-backend/src/main/java/com/stream/app/controllers/VideoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-stream-backend/src/main/java/com/stream/app/controllers/VideoController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-stream-backend/src/main/java/com/stream/app/services/impl/VideoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-stream-backend/src/main/java/com/stream/app/services/impl/VideoServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.SpringStreamBackendApplication.executor": "Debug",
+    "Application.SpringStreamBackendApplication.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -317,7 +318,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723646743497</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Folder created/check if already present">
+      <option name="closed" value="true" />
+      <created>1723647584892</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1723647584892</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Folder created/check if already present">
+      <option name="closed" value="true" />
+      <created>1723647598142</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1723647598142</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -340,17 +357,7 @@
     <MESSAGE value="first testing of the post method - video,filename and description(post)" />
     <MESSAGE value="getting content type and path on the backend springboot server" />
     <MESSAGE value="getting cocntent type and path on the backend springboot server" />
-    <option name="LAST_COMMIT_MESSAGE" value="getting cocntent type and path on the backend springboot server" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/spring-stream-backend/src/main/java/com/stream/app/services/impl/VideoServiceImpl.java</url>
-          <line>73</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Folder created/check if already present" />
+    <option name="LAST_COMMIT_MESSAGE" value="Folder created/check if already present" />
   </component>
 </project>
