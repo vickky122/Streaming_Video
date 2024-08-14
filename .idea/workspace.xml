@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bda039b-8705-47c0-967c-4fd7984f6548" name="Changes" comment="steps to followed to upload file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-stream-backend/src/main/java/com/stream/app/services/impl/VideoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-stream-backend/src/main/java/com/stream/app/services/impl/VideoServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-stream-backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-stream-backend/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="6bda039b-8705-47c0-967c-4fd7984f6548" name="Changes" comment="first testing of the post method - video,filename and description(post)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -190,7 +186,39 @@
       <option name="project" value="LOCAL" />
       <updated>1723638271286</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="first testing of the post method - video,filename and description(post)">
+      <option name="closed" value="true" />
+      <created>1723643620398</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1723643620398</updated>
+    </task>
+    <task id="LOCAL-00013" summary="first testing of the post method - video,filename and description(post)">
+      <option name="closed" value="true" />
+      <created>1723643687408</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1723643687408</updated>
+    </task>
+    <task id="LOCAL-00014" summary="first testing of the post method - video,filename and description(post)">
+      <option name="closed" value="true" />
+      <created>1723643808524</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1723643808524</updated>
+    </task>
+    <task id="LOCAL-00015" summary="first testing of the post method - video,filename and description(post)">
+      <option name="closed" value="true" />
+      <created>1723643828620</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1723643828620</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -199,6 +227,7 @@
     <MESSAGE value="VideoRepository, Service and Service impl to store the initial streaming logic" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="steps to followed to upload file" />
-    <option name="LAST_COMMIT_MESSAGE" value="steps to followed to upload file" />
+    <MESSAGE value="first testing of the post method - video,filename and description(post)" />
+    <option name="LAST_COMMIT_MESSAGE" value="first testing of the post method - video,filename and description(post)" />
   </component>
 </project>
